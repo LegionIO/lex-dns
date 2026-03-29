@@ -10,7 +10,7 @@ Legion Extension for DNS resolution via Ruby stdlib `Resolv::DNS`. Provides forw
 
 **GitHub**: https://github.com/LegionIO/lex-dns
 **License**: MIT
-**Version**: 0.1.0
+**Version**: 0.1.2
 
 ## Architecture
 
